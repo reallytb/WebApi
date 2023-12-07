@@ -6459,11 +6459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplicationStenyaev\\WebApplicationStenyaev.csproj",
+      "projectName": "WebApplicationStenyaev",
+      "projectPath": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplicationStenyaev\\WebApplicationStenyaev.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplicationStenyaev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

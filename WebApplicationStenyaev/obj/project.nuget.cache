@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z083kvH1EM3QD7yTKkzZ4GfQwwQWL4nlNSMJcDZ7DO3rG2ShqVnP1VfvGkfYD9aD394B2ZXEE+vd+ex7dIKXEA==",
+  "dgSpecHash": "g+kcvzpwhMGlWMSa1cwJv2v4yrhMG4HLs0mfu8hdjxIzX4SZkkU2u1xDDgaYLCgw1X3V7FZoBo6SWThSLGcdDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\lab-lab3\\WebApplicationStenyaev\\WebApplicationStenyaev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\1\\1.0.0\\1.1.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\jquery\\2.1.1\\jquery.2.1.1.nupkg.sha512",
